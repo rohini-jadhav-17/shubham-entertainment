@@ -35,6 +35,11 @@ a:hover {
   width: 600px;
   height: 400px;
 }
+
+.image1 {
+  width: 400px;
+  height: 300px;
+}
 /* Showcase */
 .showcase {
   background-color: var(--primary-color);
