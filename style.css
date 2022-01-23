@@ -317,6 +317,10 @@ a:hover {
 }
 
 @media (max-width: 516px) {
+  .image1 {
+    width: 400px;
+    height: 250px;
+  }
   #main-footer {
     text-align: center;
   }
